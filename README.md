@@ -46,6 +46,7 @@ El sistema sigue una estructura simple:
 # Ejecucion
 
 
+
 Crear entorno virtual
 - python -m venv env
 
@@ -54,7 +55,7 @@ Activar entorno:
 
 Instalar dependencias
 
--pip install -r requirements.txt
+- pip install -r requirements.txt
 
 # Configuración de API Key
 
