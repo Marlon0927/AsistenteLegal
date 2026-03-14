@@ -79,10 +79,14 @@ Ejemplo:
 Tu: ¿Cuántos días de vacaciones tiene un trabajador?
 
 Respuesta:
+
+```json
 {
- "respuesta": "En Colombia el trabajador tiene derecho a 15 días hábiles consecutivos de vacaciones remuneradas por cada año de servicio.",
- "referencia": "Artículo 186",
- "interpretacion": "La ley laboral establece el derecho mínimo anual a vacaciones pagadas."
+  "respuesta": "En Colombia el trabajador tiene derecho a 15 días hábiles consecutivos de vacaciones remuneradas por cada año de servicio.",
+  "referencia": "Artículo 186",
+  "interpretacion": "La ley laboral establece el derecho mínimo anual a vacaciones pagadas."
 }
+```
+
 
 
